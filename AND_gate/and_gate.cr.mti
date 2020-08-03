@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/AND_gate/and_gate.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/AND_gate/and_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module and_gate
+
+Top level modules:
+	and_gate
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/AND_gate/and_gate_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/AND_gate/and_gate_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module andgate_tb
+
+Top level modules:
+	andgate_tb
+
+} {} {}}

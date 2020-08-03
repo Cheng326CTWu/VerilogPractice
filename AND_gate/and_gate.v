@@ -1,20 +1,14 @@
-///////////////////////////////////////////////////////////////////////////////
-// File Downloaded from http://www.nandland.com
-///////////////////////////////////////////////////////////////////////////////
-module example_and_gate 
-  ( 
+module and_gate 
+(
     input_1,
     input_2,
-    and_result);
+    and_result
+);
+
+	input  input_1;
+  	input  input_2;
+  	output and_result;
    
-  input  input_1;
-  input  input_2;
-  output and_result;
+  	assign and_result = input_1 & input_2;
  
-  wire   and_temp;  
- 
-  assign and_temp = input_1 & input_2;
-   
-  assign and_result = and_temp;
- 
-endmodule // example_and_gate
+endmodule // and_gate
