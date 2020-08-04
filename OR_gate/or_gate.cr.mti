@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/OR_gate/or_gate.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/OR_gate/or_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module or_gate
+
+Top level modules:
+	or_gate
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/OR_gate/or_gate_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/OR_gate/or_gate_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module orgate_tb
+
+Top level modules:
+	orgate_tb
+
+} {} {}}

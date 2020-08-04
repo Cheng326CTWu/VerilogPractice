@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/XOR_gate/xor_gate.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/XOR_gate/xor_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module xor_gate
+
+Top level modules:
+	xor_gate
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/XOR_gate/xor_gate_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/XOR_gate/xor_gate_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module xor_gate_tb
+
+Top level modules:
+	xor_gate_tb
+
+} {} {}}

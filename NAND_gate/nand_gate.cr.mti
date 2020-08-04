@@ -1,0 +1,29 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module three_input_nand
+
+Top level modules:
+	three_input_nand
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module three_input_nand_tb
+
+Top level modules:
+	three_input_nand_tb
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module nand_gate
+
+Top level modules:
+	nand_gate
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module nand_gate_tb
+
+Top level modules:
+	nand_gate_tb
+
+} {} {}}

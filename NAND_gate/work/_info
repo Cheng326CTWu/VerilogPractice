@@ -1,0 +1,94 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/NOT_gate
+vnand_gate
+Z0 !s110 1596568880
+!i10b 1
+!s100 AQ17Pbelda:8SGM1_lGAl2
+I0h9lDZc`GbDdAHj?QKiI;2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate
+w1596565206
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596568880.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vnand_gate_tb
+R0
+!i10b 1
+!s100 EF@H46:VY0fGP<GSVk]IU3
+I1MbXIDSPO^n7ERVB]o>@N2
+R1
+R2
+w1596565351
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/nand_gate_tb.v|
+!s101 -O0
+!i113 1
+R5
+vthree_input_nand
+R0
+!i10b 1
+!s100 Ko[:ngzON1za:_U@Dod:13
+I_zH;5nnb=B26W>=9JPhE<1
+R1
+R2
+w1596568428
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand.v|
+!s101 -O0
+!i113 1
+R5
+vthree_input_nand_tb
+R0
+!i10b 1
+!s100 jO;Bn7iEg<STTmz6MKW^N0
+Ia0Y`QczPTK1X7Mj01=7Jz1
+R1
+R2
+w1596568877
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/NAND_gate/three_input_nand_tb.v|
+!s101 -O0
+!i113 1
+R5
