@@ -1,4 +1,22 @@
-C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_multiplier_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_multiplier_tb.v
+C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_bit_binary_adder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_bit_binary_adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module four_bit_binary_adder
+-- Compiling module alt_four_bit_binary_adder
+
+Top level modules:
+	four_bit_binary_adder
+	alt_four_bit_binary_adder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_binary_multiplier.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_binary_multiplier.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module four_three_binary_multiplier
+-- Compiling module alt_four_three_binary_multiplier
+
+Top level modules:
+	four_three_binary_multiplier
+	alt_four_three_binary_multiplier
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_multiplier_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_multiplier_tb.v
 Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
 -- Compiling module four_three_multiplier_tb
 
