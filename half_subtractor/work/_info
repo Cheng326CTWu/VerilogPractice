@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/binary_adder
+vhalf_subtractor
+Z0 !s110 1596658671
+!i10b 1
+!s100 8f>5h6fmG7I47?BBg<<P?0
+IVE5?8BNo;b2g9o`M9h?CN2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor
+w1596658568
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor/half_subtractor.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor/half_subtractor.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596658671.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor/half_subtractor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor/half_subtractor.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vhalf_subtractor_tb
+R0
+!i10b 1
+!s100 FLzL26f[1GRCLCPcg1dnA1
+IOE]d`Ed]9FKE9SFAe<6DN3
+R1
+R2
+w1596658666
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor/half_subtractor_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor/half_subtractor_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor/half_subtractor_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/half_subtractor/half_subtractor_tb.v|
+!s101 -O0
+!i113 1
+R5

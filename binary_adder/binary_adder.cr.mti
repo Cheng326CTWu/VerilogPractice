@@ -1,0 +1,25 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_adder/alt_binary_adder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_adder/alt_binary_adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_adder
+-- Compiling module half_adder
+-- Compiling module alt_binary_adder
+
+Top level modules:
+	alt_binary_adder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_adder/binary_adder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_adder/binary_adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_adder
+-- Compiling module binary_adder
+
+Top level modules:
+	binary_adder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_adder/binary_adder_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_adder/binary_adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module binary_adder_tb
+
+Top level modules:
+	binary_adder_tb
+
+} {} {}}

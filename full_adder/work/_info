@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder
+valt_full_adder
+Z0 !s110 1596577099
+!i10b 1
+!s100 OzB9`]S7zaH:@z]dZ50Be1
+IY=fS5I8MY:>UhWzbj<:cG2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder
+w1596577058
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/alt_full_adder.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/alt_full_adder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596577099.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/alt_full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/alt_full_adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valt_full_adder_tb
+R0
+!i10b 1
+!s100 `ek;UhWD<7ECP892NY28U0
+I6355Hg29n`CU2P?o9fJTb0
+R1
+R2
+w1596577094
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/alt_full_adder_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/alt_full_adder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/alt_full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/alt_full_adder_tb.v|
+!s101 -O0
+!i113 1
+R5
+vfull_adder
+R0
+!i10b 1
+!s100 FN9@P=VzYg39>zZESXN9I1
+ITY;1IQWFc^O14ii@kRBC30
+R1
+R2
+Z6 w1596575849
+Z7 8C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/full_adder.v
+Z8 FC:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/full_adder.v
+L0 18
+R3
+r1
+!s85 0
+31
+R4
+Z9 !s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/full_adder.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/full_adder.v|
+!s101 -O0
+!i113 1
+R5
+vfull_adder_tb
+R0
+!i10b 1
+!s100 GlZfT^4<Z:M;bLoad3PAe0
+I@Z_MJ=hd64d?A[>Qm?SBd0
+R1
+R2
+w1596576048
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/full_adder_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/full_adder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/full_adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/full_adder/full_adder_tb.v|
+!s101 -O0
+!i113 1
+R5
+vhalf_adder
+R0
+!i10b 1
+!s100 P[SLP9>c5jS5DgCAR;6;k2
+I9D=ck3S=9?B<nJcMd^2<90
+R1
+R2
+R6
+R7
+R8
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R9
+R10
+!s101 -O0
+!i113 1
+R5

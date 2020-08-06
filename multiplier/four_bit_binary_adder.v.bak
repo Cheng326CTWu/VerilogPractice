@@ -1,0 +1,49 @@
+module four_bit_binary_adder
+(
+	A,
+	B,
+	sum,
+	c_out
+);
+
+	input [3:0] A;
+	input [3:0] B;
+	output [3:0] sum;
+	output c_out;
+
+	wire [3:0] c;
+
+	genvar i;
+	generate
+	for(i=0; i<4; i=i+1)
+	begin: generate_4_bit_adder
+		if(i == 0)
+			half_adder f(.x(A[0]), .y(B[0]), .sum(sum[0]), .carry(c[0]));
+		else
+			full_adder f(.x(A[i]), .y(B[i]), .c_in(c[i-1]), .sum(sum[i]), .c_out(c[i]));
+	end
+	assign c_out = c[3];
+	endgenerate
+endmodule
+
+module alt_four_bit_binary_adder
+(
+	A,
+	B,
+	c_in,
+	sum,
+	c_out
+);
+
+	input A, B, c_in;
+	output sum, c_out;
+	wire [3:0] A, B;
+	wire c_in;
+	reg [3:0] sum;
+	reg c_out;
+
+	always @(A or B or c_in)
+	begin
+		{c_out,sum} = A + B + c_in;
+	end
+endmodule

@@ -1,0 +1,19 @@
+module full_subtractor
+(
+	x,
+	y,
+	b_in,
+	diff,
+	b_out
+);
+
+	input x;
+	input y;
+	input b_in;
+	output diff;
+	output b_out;
+
+	
+
+endmodule
+

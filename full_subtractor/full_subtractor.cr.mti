@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/full_subtractor/full_subtractor.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/full_subtractor/full_subtractor.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_subtractor
+
+Top level modules:
+	full_subtractor
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/full_subtractor/full_subtractor_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/full_subtractor/full_subtractor_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_subtractor_tb
+
+Top level modules:
+	full_subtractor_tb
+
+} {} {}}

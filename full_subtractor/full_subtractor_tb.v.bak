@@ -1,0 +1,11 @@
+module full_subtractor_tb();
+wire tb_diff_result, tb_borrow_result;
+reg tb_x, tb_y, tb_b_in;
+
+full_subtractor DUT(.x(tb_x), .y(tb_y), .b_in(tb_b_in), .diff(tb_diff_result), .b_out(tb_borrow_result));
+
+initial
+begin
+
+end
+endmodule

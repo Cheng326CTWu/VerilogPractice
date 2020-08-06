@@ -1,0 +1,32 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder/alt_half_adder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder/alt_half_adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module and_gate
+-- Compiling module or_gate
+-- Compiling module alt_half_adder
+
+Top level modules:
+	or_gate
+	alt_half_adder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder/half_adder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder/half_adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder/alt_half_adder_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder/alt_half_adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alt_half_adder_tb
+
+Top level modules:
+	alt_half_adder_tb
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder/half_adder_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/half_adder/half_adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module half_adder_tb
+
+Top level modules:
+	half_adder_tb
+
+} {} {}}

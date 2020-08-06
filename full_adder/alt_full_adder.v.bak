@@ -1,0 +1,19 @@
+module alt_full_adder
+(
+	x,
+	y,
+	z,
+	sum,
+	carry
+);
+
+	input x;
+	input y;
+	input z;
+	output sum;
+	output carry;
+
+	
+
+endmodule
+

@@ -1,0 +1,220 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/full_subtractor
+valt_four_bit_binary_adder
+Z0 !s110 1596676681
+!i10b 1
+!s100 S^[T]0F?feGAEC8I4M8[?3
+IL2T3:?X`lE3IIl;dm<j0W3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier
+Z3 w1596676633
+Z4 8C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_bit_binary_adder.v
+Z5 FC:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_bit_binary_adder.v
+L0 29
+Z6 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1596676681.000000
+Z8 !s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_bit_binary_adder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_bit_binary_adder.v|
+!s101 -O0
+!i113 1
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+valt_four_three_binary_multiplier
+R0
+!i10b 1
+!s100 OK0aPL0eo@]IXlbHD8ePX2
+IYOf?Ak:jIn0j[SLhLS7i00
+R1
+R2
+Z11 w1596676675
+Z12 8C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_binary_multiplier.v
+Z13 FC:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_binary_multiplier.v
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+Z14 !s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_binary_multiplier.v|
+Z15 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_binary_multiplier.v|
+!s101 -O0
+!i113 1
+R10
+valt_full_adder
+!s110 1596663341
+!i10b 1
+!s100 8k?^LRhGYMcMO4H?Bieoo3
+I19GaHD[<V8]HBSHQ?J_@i3
+R1
+R2
+w1596663338
+Z16 8C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/full_adder.v
+Z17 FC:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/full_adder.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1596663341.000000
+Z18 !s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/full_adder.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/full_adder.v|
+!s101 -O0
+!i113 1
+R10
+vbinary_multiplier
+!s110 1596676680
+!i10b 1
+!s100 TS8l;>^aH3]N[fOz69=Gl3
+IonJR34QU<RhYlYAhf1;dd2
+R1
+R2
+w1596662773
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/binary_multiplier.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/binary_multiplier.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1596676680.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/binary_multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/binary_multiplier.v|
+!s101 -O0
+!i113 1
+R10
+vbinary_multiplier_tb
+R0
+!i10b 1
+!s100 6@J_E^5Sc9nL<L^QTQC5?0
+IoRSK]i2<il]GYmQmS>ER`1
+R1
+R2
+w1596662967
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/binary_multiplier_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/binary_multiplier_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/binary_multiplier_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/binary_multiplier_tb.v|
+!s101 -O0
+!i113 1
+R10
+vfour_bit_binary_adder
+R0
+!i10b 1
+!s100 44j8999CTRndPNiQAB3nS3
+I_SWN4ERUOF4A[R]AY_<[m1
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!s101 -O0
+!i113 1
+R10
+vfour_three_binary_multiplier
+R0
+!i10b 1
+!s100 GzPlU`En?D_CL`EDKF?T?2
+I`2RAKDedZI_AzO7VXK9SX3
+R1
+R2
+R11
+R12
+R13
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R14
+R15
+!s101 -O0
+!i113 1
+R10
+vfour_three_multiplier_tb
+R0
+!i10b 1
+!s100 b;k>FEfChX[1XQ8PZQf9z2
+IMWUG[LjK3F;5=GgdWF3N;0
+R1
+R2
+w1596676415
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_multiplier_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_multiplier_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_multiplier_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/four_three_multiplier_tb.v|
+!s101 -O0
+!i113 1
+R10
+vfull_adder
+R0
+!i10b 1
+!s100 81lz8<<[D61kKPZMRf[@93
+InYh^HA[i@oAV1[na7onjn2
+R1
+R2
+w1596663348
+R16
+R17
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R18
+R19
+!s101 -O0
+!i113 1
+R10
+vhalf_adder
+R0
+!i10b 1
+!s100 eSHbgT>Zm<Ji:nR=8CL3E0
+Iha_lG_D5JQ4cHdO@k5>L23
+R1
+R2
+w1596662205
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/half_adder.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/half_adder.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/half_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/multiplier/half_adder.v|
+!s101 -O0
+!i113 1
+R10
