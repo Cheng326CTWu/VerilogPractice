@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one
+vfour_to_one_mux
+!s110 1596765188
+!i10b 1
+!s100 ?S3QV=bg91D4c<o3;f]m_0
+ImPTZBiO>6AW@`PoNBWl:A0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one
+w1596764903
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one/four_to_one_mux.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one/four_to_one_mux.v
+L0 1
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1596765188.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one/four_to_one_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one/four_to_one_mux.v|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vfour_to_one_mux_tb
+!s110 1596765189
+!i10b 1
+!s100 <T76B;<d>`5Oc`EPMT<5b0
+Ib>A^a[UlkT9_URRe]XJ=93
+R0
+R1
+w1596765186
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one/four_to_one_mux_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one/four_to_one_mux_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1596765189.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one/four_to_one_mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one/four_to_one_mux_tb.v|
+!s101 -O0
+!i113 1
+R3

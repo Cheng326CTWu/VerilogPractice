@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module four_bit_priority_encoder
+
+Top level modules:
+	four_bit_priority_encoder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module four_bit_priority_encoder_tb
+
+Top level modules:
+	four_bit_priority_encoder_tb
+
+} {} {}}

@@ -8,3 +8,45 @@ z2
 !i10f 100
 cModel Technology
 dC:/Users/Owner/Desktop/verilog/VerilogPractice/comparator
+vdecoder
+Z0 !s110 1596748782
+!i10b 1
+!s100 Ad_73KR8Sh[SYb9[oIhM<2
+I4C>zTAF^KJh>KEGQMPe>^1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four
+w1596748481
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four/decoder.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four/decoder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596748782.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four/decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four/decoder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vdecoder_tb
+R0
+!i10b 1
+!s100 EKcm>2Ob[6_Zg=eI5Y>=X2
+I6KaOP3IlRLDaM=?]aS1GP3
+R1
+R2
+w1596748778
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four/decoder_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four/decoder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four/decoder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/two_to_four/decoder_tb.v|
+!s101 -O0
+!i113 1
+R5

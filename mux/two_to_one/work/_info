@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority
+vtwo_to_one_mux
+Z0 !s110 1596764591
+!i10b 1
+!s100 o5@dMMNF^9=9Y4U^A870=3
+I_D:RjE<HI`bnM<0]jC6>S0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one
+w1596764382
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one/two_to_one_mux.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one/two_to_one_mux.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596764591.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one/two_to_one_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one/two_to_one_mux.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vtwo_to_one_mux_tb
+R0
+!i10b 1
+!s100 WVEUS[[mcY^J`ND?ngoKb0
+Ibknb7_?J[C:k^U2D3c;?G2
+R1
+R2
+w1596764586
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one/two_to_one_mux_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one/two_to_one_mux_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one/two_to_one_mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/two_to_one/two_to_one_mux_tb.v|
+!s101 -O0
+!i113 1
+R5

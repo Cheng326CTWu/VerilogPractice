@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/three_to_eight
+veight_to_three_encoder
+Z0 !s110 1596750557
+!i10b 1
+!s100 38]D@AlWZk>Q?G02DFj?A2
+I0Im^Em1m4:oJ=XA^KNdTB2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three
+w1596750367
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three/eight_to_three_encoder.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three/eight_to_three_encoder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596750557.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three/eight_to_three_encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three/eight_to_three_encoder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+veight_to_three_encoder_tb
+R0
+!i10b 1
+!s100 fj];M@IU4;zaoCbcmC9TA0
+I:PlOfYb`:_AJ7BZ9Z1kLQ2
+R1
+R2
+w1596750554
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three/eight_to_three_encoder_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three/eight_to_three_encoder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three/eight_to_three_encoder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three/eight_to_three_encoder_tb.v|
+!s101 -O0
+!i113 1
+R5

@@ -1,0 +1,12 @@
+module eight_to_three_encoder_tb();
+wire tb_x, tb_y, tb_z;
+reg [7:0] D;
+
+eight_to_three_encoder DUT(.D(tb_D), .x(tb_x), .y(tb_y), .z(tb_z));
+
+initial
+begin
+	
+
+end
+endmodule

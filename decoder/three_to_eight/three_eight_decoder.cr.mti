@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/three_to_eight/three_eight_decoder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/three_to_eight/three_eight_decoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module three_eight_decoder
+
+Top level modules:
+	three_eight_decoder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/three_to_eight/three_eight_decoder_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/decoder/three_to_eight/three_eight_decoder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module three_eight_decoder_tb
+
+Top level modules:
+	three_eight_decoder_tb
+
+} {} {}}

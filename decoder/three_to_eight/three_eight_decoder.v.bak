@@ -1,0 +1,16 @@
+module three_eight_decoder
+(
+	x,
+	y,
+	z,
+	D
+);
+
+	input x;
+	input y;
+	input z;
+	output [7:0] D;
+
+	
+
+endmodule

@@ -1,0 +1,13 @@
+module eight_to_three_encoder
+(
+	D,
+	x,
+	y,
+	z
+);
+
+	input [7:0] D;
+	output x, y, z;
+
+
+endmodule

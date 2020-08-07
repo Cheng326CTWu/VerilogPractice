@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/four_to_one
+veight_to_one_mux
+Z0 !s110 1596767047
+!i10b 1
+!s100 e83dF;JW4nfjmUnRf5nhM1
+IZFjPd2@V?[X>[hHBm30Zg3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one
+w1596766838
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/eight_to_one_mux.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/eight_to_one_mux.v
+L0 2
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596767047.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/eight_to_one_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/eight_to_one_mux.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+veight_to_one_mux_tb
+R0
+!i10b 1
+!s100 n8<kTO971nmX:XVSJiD1e0
+I@g8TkTm3bJjOh5gB9dVlS0
+R1
+R2
+w1596767038
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/eight_to_one_mux_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/eight_to_one_mux_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/eight_to_one_mux_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/eight_to_one_mux_tb.v|
+!s101 -O0
+!i113 1
+R5
+vfour_to_one_mux
+R0
+!i10b 1
+!s100 ?S3QV=bg91D4c<o3;f]m_0
+IeQXmbW`m]24UWfimaA:fj2
+R1
+R2
+w1596766856
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/four_to_one_mux.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/four_to_one_mux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/four_to_one_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one/four_to_one_mux.v|
+!s101 -O0
+!i113 1
+R5

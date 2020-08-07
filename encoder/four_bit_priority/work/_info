@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/eight_to_three
+vfour_bit_priority_encoder
+Z0 !s110 1596751250
+!i10b 1
+!s100 WK;QG:B^Cz5?dPEXP8[mV0
+I:Z<@PWfF`3`d<W32`o9lb3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority
+w1596751004
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596751250.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vfour_bit_priority_encoder_tb
+R0
+!i10b 1
+!s100 2GW5G^g2@6zTAm>AXZXJP0
+I32WAkBV?KMiYOBiNJ;ZdD1
+R1
+R2
+w1596751244
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/encoder/four_bit_priority/four_bit_priority_encoder_tb.v|
+!s101 -O0
+!i113 1
+R5
