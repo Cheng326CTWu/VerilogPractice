@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/mux/eight_to_one
+vSR_latch_nor
+Z0 !s110 1596770014
+!i10b 1
+!s100 2lD_h`FCzBz]T[gj?RP7F1
+IBid1SKKlz:N[IX=^=4Jed0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor
+w1596769571
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596770014.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@s@r_latch_nor
+vSR_latch_nor_tb
+R0
+!i10b 1
+!s100 X^BQJz>jfN3CfS4Z3o5S81
+IF5ZB1GAkm=W7G]IIJbg7M2
+R1
+R2
+w1596770002
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor_tb.v|
+!s101 -O0
+!i113 1
+R5
+n@s@r_latch_nor_tb

@@ -1,0 +1,12 @@
+module SR_latch_nor
+(
+	S,
+	R,
+	Q,
+	Qn
+);
+
+	input S, R;
+	output Q, Qn;
+
+endmodule

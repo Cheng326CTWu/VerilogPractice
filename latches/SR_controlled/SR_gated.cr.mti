@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_controlled/SR_gated.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_controlled/SR_gated.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SR_gated
+
+Top level modules:
+	SR_gated
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_controlled/SR_gated_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_controlled/SR_gated_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SR_gated_tb
+
+Top level modules:
+	SR_gated_tb
+
+} {} {}}

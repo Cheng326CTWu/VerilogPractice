@@ -1,0 +1,9 @@
+module SR_latch_nand
+(
+	S,
+	R,
+	Q,
+	Qn,
+);
+
+endmodule

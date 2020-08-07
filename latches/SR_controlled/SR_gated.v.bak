@@ -1,0 +1,19 @@
+module SR_gated
+(
+	S,
+	R,
+	En,
+	Q,
+	Qn
+);
+
+	input S, R, En;
+	output Q, Qn;
+
+	wire w1, w2;
+
+	nand nand_0(w1, S, En);
+	nand nand_1(w2, R, En);
+	
+
+endmodule

@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SR_latch_nor
+
+Top level modules:
+	SR_latch_nor
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nor/SR_nor_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SR_latch_nor_tb
+
+Top level modules:
+	SR_latch_nor_tb
+
+} {} {}}

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_master_slave
+vsimple_D_pos_edge
+Z0 !s110 1596776376
+!i10b 1
+!s100 :5_aCbNPQM3fbNfUfoBTa0
+IF`<K@O;WQ6aKFFEb^d?D]2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge
+w1596776090
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge/simple_D_pos_edge.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge/simple_D_pos_edge.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1596776376.000000
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge/simple_D_pos_edge.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge/simple_D_pos_edge.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+nsimple_@d_pos_edge
+vsimple_D_pos_edge_tb
+R0
+!i10b 1
+!s100 7m1@DM9IM:j5a[hjYnol:2
+I5OXl4^S`dc_di0BJ6zZAY2
+R1
+R2
+w1596776370
+8C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge/simple_D_pos_edge_tb.v
+FC:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge/simple_D_pos_edge_tb.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge/simple_D_pos_edge_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/simple_D_pos_edge/simple_D_pos_edge_tb.v|
+!s101 -O0
+!i113 1
+R5
+nsimple_@d_pos_edge_tb

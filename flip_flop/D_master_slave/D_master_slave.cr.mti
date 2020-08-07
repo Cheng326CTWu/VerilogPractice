@@ -1,0 +1,22 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_master_slave/D_master_slave.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_master_slave/D_master_slave.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_master_slave
+
+Top level modules:
+	D_master_slave
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_master_slave/D_master_slave_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_master_slave/D_master_slave_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_master_slave_tb
+
+Top level modules:
+	D_master_slave_tb
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_master_slave/D_gated.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_master_slave/D_gated.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_gated
+
+Top level modules:
+	D_gated
+
+} {} {}}

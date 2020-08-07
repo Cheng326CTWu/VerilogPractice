@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nand/SR_nand.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nand/SR_nand.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SR_latch_nand
+
+Top level modules:
+	SR_latch_nand
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nand/SR_nand_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/latches/SR_nand/SR_nand_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SR_latch_nand_tb
+
+Top level modules:
+	SR_latch_nand_tb
+
+} {} {}}
