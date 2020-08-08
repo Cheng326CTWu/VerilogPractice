@@ -45,7 +45,7 @@ Below are links used when learning verilog and digital logic concept.
 
 **NOTE:** Not everything listed below were fully used!
 
-* [ASUC World](http://www.asic-world.com/verilog/veritut.html)
+* [ASIC World](http://www.asic-world.com/verilog/veritut.html)
 * [Nand Land - verilog tutorial](https://www.nandland.com/verilog/tutorials/tutorial-introduction-to-verilog-for-beginners.html)
 * [Nand Land - ModelSim Tutorial](https://www.nandland.com/vhdl/tutorials/tutorial-modelsim-simulation-walkthrough.html)
 * [Verilog HDL Operator](https://personal.utdallas.edu/~jxw143630/index_files/Page5212.htm)
