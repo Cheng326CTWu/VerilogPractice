@@ -1,0 +1,9 @@
+module D_pos_edge_gate
+(
+	D,
+	clk,
+	Q,
+	Qn
+);
+
+endmodule

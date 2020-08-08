@@ -1,0 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/register/four_bit_parallel/four_bit_parallel.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/register/four_bit_parallel/four_bit_parallel.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module four_bit_register_parallel
+
+Top level modules:
+	four_bit_register_parallel
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/register/four_bit_parallel/four_bit_parallel_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/register/four_bit_parallel/four_bit_parallel_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module four_bit_register_parallel_tb
+
+Top level modules:
+	four_bit_register_parallel_tb
+
+} {} {}}

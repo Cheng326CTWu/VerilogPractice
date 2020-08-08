@@ -1,1 +1,15 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_pos_edge_gate/D_pos_edge_gate.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_pos_edge_gate/D_pos_edge_gate.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_pos_edge_gate
 
+Top level modules:
+	D_pos_edge_gate
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_pos_edge_gate/D_pos_edge_gate_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/D_pos_edge_gate/D_pos_edge_gate_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module D_pos_edge_gate_tb
+
+Top level modules:
+	D_pos_edge_gate_tb
+
+} {} {}}

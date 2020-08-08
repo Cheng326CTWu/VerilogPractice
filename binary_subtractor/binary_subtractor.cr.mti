@@ -1,0 +1,29 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor/binary_subtractor.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor/binary_subtractor.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module binary_subtractor
+
+Top level modules:
+	binary_subtractor
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor/full_adder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor/full_adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor/half_adder.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor/half_adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor/binary_subtractor_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/binary_subtractor/binary_subtractor_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module binary_subtractor_tb
+
+Top level modules:
+	binary_subtractor_tb
+
+} {} {}}

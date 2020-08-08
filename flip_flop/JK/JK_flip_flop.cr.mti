@@ -1,0 +1,22 @@
+C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/JK/JK.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/JK/JK.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module JKFF
+
+Top level modules:
+	JKFF
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/JK/JK_tb.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/JK/JK_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module JKFF_tb
+
+Top level modules:
+	JKFF_tb
+
+} {} {}} C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/JK/D.v {1 {vlog -work work -stats=none C:/Users/Owner/Desktop/verilog/VerilogPractice/flip_flop/JK/D.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module DFF
+
+Top level modules:
+	DFF
+
+} {} {}}

@@ -1,0 +1,21 @@
+module TFF
+(
+	T,
+	clk,
+	Q,
+	rst
+);
+
+	input T, clk, rst;
+	output reg Q;
+
+	always @(posedge clk)
+	begin
+		if(T)
+			Q <= ~Q;
+		else
+			Q <= Q;
+	end
+
+endmodule
+

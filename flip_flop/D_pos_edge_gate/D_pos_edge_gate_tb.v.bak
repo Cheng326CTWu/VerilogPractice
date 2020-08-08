@@ -1,4 +1,4 @@
-`timescale 1ns/1ns
+'timescale 1ns/1ns
 
 module D_pos_edge_gate_tb();
 wire tb_Q, tb_Qn;
